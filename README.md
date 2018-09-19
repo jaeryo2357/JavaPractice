@@ -19,5 +19,5 @@ public class Helloworld {
 package Hello; 
 컴파일 에러 메시지는 무엇인지 확인하라. 에러가 발생하는 원인은 무엇인가?**
 
-HelloWorld.java 는 JavaPractice 폴더안에 존재하니 
+	HelloWorld.java 는 JavaPractice 폴더안에 존재하니 
 		HelloWorld 클래스도 package JavaPractice에 선언 되어 있어야함.
