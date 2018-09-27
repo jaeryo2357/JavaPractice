@@ -11,6 +11,7 @@ class Data{
 	boolean enabled;
 	Date startDate;
 	
+	
 	public Data(double weight,String name,boolean enabled ,Date startDate) {
 		this.weight=weight;
 		this.name=name;
