@@ -13,5 +13,6 @@ public class nullableIntefger {
 		int intobj4=(ob2==null)?0:ob2;
 		
 		System.out.printf("%d %d %d %d \n",intobj1,intobj2,intobj3,intobj4);
+		
 	}
 }
