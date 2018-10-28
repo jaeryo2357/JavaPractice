@@ -6,7 +6,7 @@ public class practice1_6 {
 	static String[] split1(String s) {
 		//replace split
 	
-		return s.replaceAll(" ", "").split(",");
+		return s.replace(" ", "").split(",");
 	}
 	
 	static String[] split2(String s) {
@@ -17,8 +17,6 @@ public class practice1_6 {
 		{
 			temp[i]=temp[i].trim();//trim은 this문자열의 앞 과 뒤의 공백만 제거해줌
 		}
-		
-		
 		return temp;
 	}
 	

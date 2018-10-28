@@ -35,7 +35,7 @@ public class ArrayFind {
 		
 		for(int i=0;i<test.length/2;i++)
 		{
-			if((int)test[i*2]==Value)
+			if((int)test[2*i]==Value)
 				index=i*2;
 		}
 		return index;
